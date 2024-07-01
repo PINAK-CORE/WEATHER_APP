@@ -1,6 +1,7 @@
 <h1> Weather App with API Intigration</h1>
-
-<h3> It's a Weather App build in Flutter which shows realtime data using Open Weather API. </h3>
+<h3>
+This is a Flutter project that builds a user-friendly Android application displaying real-time weather information. It leverages the OpenWeatherMap API to fetch current weather data for any location. 
+</h3>
 
 ## Images :
 
